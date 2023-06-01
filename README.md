@@ -1,2 +1,2 @@
-# SD1M4SKILLS
-Back End Opdrachten 
+# M4SKILLS
+PhP opdrachten voor school (back-end)
